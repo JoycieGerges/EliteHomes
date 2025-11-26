@@ -10,7 +10,7 @@ https://elite-homes1.netlify.app/
 
 ---
 
-#📱 Features
+# 📱 Features
 
 🏠 Display of featured properties with images and details
 📍 Browse properties by location, type, and category
