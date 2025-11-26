@@ -13,10 +13,15 @@ https://elite-homes1.netlify.app/
 # 📱 Features
 
 🏠 Display of featured properties with images and details
+
 📍 Browse properties by location, type, and category
+
 ✨ Smooth animations and a clean, modern layout
+
 📑 Well-organized sections: Hero, Services, Properties, Contact
+
 📧 Contact form for inquiries
+
 🌐 Fully responsive design for desktop, tablet, and mobile
 
 ---
