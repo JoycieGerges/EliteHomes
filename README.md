@@ -29,7 +29,9 @@ https://elite-homes1.netlify.app/
 # 🛠️ Tech Stack
 
 HTML – Page structure & content
+
 CSS / Bootstrap 5 – Styling, layout, and responsiveness
+
 FontAwesome – Icons for UI and navigation
 
 ---
